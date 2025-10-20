@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://b0kivvn.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://b0kivvn.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://b0kivvn.github.io/mywebsite/for-nothing-nine-vicious.html</loc>
+<lastmod>2025-10-20T10:13:23+02:00</lastmod>
+<image:image>
+<image:loc>https://b0kivvn.github.io/mywebsite/media/posts/3/gallery/ab67616d0000b273d21e7dfa09d2a6db003a3ca0-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://b0kivvn.github.io/mywebsite/rest-in-bass.html</loc>
+<lastmod>2025-10-20T10:13:09+02:00</lastmod>
+<image:image>
+<image:loc>https://b0kivvn.github.io/mywebsite/media/posts/4/gallery/01796152e7b6e9bff21f8f30b77a4b4e.640x640x1-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://b0kivvn.github.io/mywebsite/zo-yung.html</loc>
+<lastmod>2025-10-20T09:09:00+02:00</lastmod>
+<image:image>
+<image:loc>https://b0kivvn.github.io/mywebsite/media/posts/2/gallery/ab67616d0000b273de2f48b9f75433c777728dd2-1-3-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
